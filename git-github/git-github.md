@@ -1,4 +1,4 @@
-=# Git & GitHub: Boshlang'ich Dasturchilar uchun Qo'llanma.
+# Git & GitHub: Boshlang'ich Dasturchilar uchun Qo'llanma.
 
 ---
 
